@@ -1,0 +1,34 @@
+{
+  name: "loopback-connector-orientdb",
+  description: "Node.js LoopBack connector for OrientDB. uses the binary/http protocol.",
+  keywords: [
+    "orientdb",
+    "orient",
+    "driver",
+    "graph",
+    "database",
+    "db",
+    "graphdb",
+    "node",
+    "node.js",
+    "loopback",
+    "connector"
+  ],
+  version: "0.1.0"
+  author: {
+    name: "Rabee Abdelwahab",
+    email: "rabee.abdelwahab@flexshopper.com"
+  },
+  contributors: [],
+  repository: {
+    type: "git",
+    url: "https://github.com/FlexShopper/loopback-connector-orientdb.git"
+  },
+  licenses: [
+    {
+      type: "Apache License, Version 2.0",
+      url: "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
+
