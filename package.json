@@ -1,34 +1,39 @@
 {
-  name: "loopback-connector-orientdb",
-  description: "Node.js LoopBack connector for OrientDB. uses the binary/http protocol.",
-  keywords: [
-    "orientdb",
-    "orient",
-    "driver",
-    "graph",
+  "name": "loopback-connector-orientdb",
+  "description": "Node.js LoopBack connector for OrientDB. uses the binary/http protocol.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rabee Abdelwahab",
+    "email": "rabee.abdelwahab@flexshopper.com"
+  },
+  "bugs": "https://github.com/FlexShopper/loopback-connector-orientdb/issues",
+  "contributors": [],
+  "dependencies": {
+    "orientdb": "^1.3.0"
+  },
+  "homepage": "https://github.com/FlexShopper/loopback-connector-orientdb",
+  "keywords": [
+    "connector",
     "database",
     "db",
+    "driver",
+    "graph",
     "graphdb",
+    "loopback",
     "node",
     "node.js",
-    "loopback",
-    "connector"
+    "orient",
+    "orientdb"
   ],
-  version: "0.1.0"
-  author: {
-    name: "Rabee Abdelwahab",
-    email: "rabee.abdelwahab@flexshopper.com"
-  },
-  contributors: [],
-  repository: {
-    type: "git",
-    url: "https://github.com/FlexShopper/loopback-connector-orientdb.git"
-  },
-  licenses: [
+  "license": [
     {
-      type: "Apache License, Version 2.0",
-      url: "http://www.apache.org/licenses/LICENSE-2.0"
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
-  ]
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlexShopper/loopback-connector-orientdb.git"
+  }
 }
-
