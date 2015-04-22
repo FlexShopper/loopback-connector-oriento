@@ -6,12 +6,12 @@
     "name": "Rabee Abdelwahab",
     "email": "rabee.abdelwahab@flexshopper.com"
   },
-  "bugs": "https://github.com/FlexShopper/loopback-connector-orientdb/issues",
+  "bugs": "https://github.com/FlexShopper/loopback-connector-oriento/issues",
   "contributors": [],
   "dependencies": {
     "oriento": "latest"
   },
-  "homepage": "https://github.com/FlexShopper/loopback-connector-orientdb",
+  "homepage": "https://github.com/FlexShopper/loopback-connector-oriento",
   "keywords": [
     "connector",
     "database",
@@ -34,6 +34,6 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlexShopper/loopback-connector-orientdb.git"
+    "url": "https://github.com/FlexShopper/loopback-connector-oriento.git"
   }
 }
