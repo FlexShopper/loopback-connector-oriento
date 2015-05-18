@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-oriento",
+  "name": "@flexshopper/loopback-connector-oriento",
   "description": "Node.js LoopBack connector for OrientDB. uses the binary/http protocol.",
   "version": "0.1.0",
   "author": {
@@ -32,6 +32,7 @@
     }
   ],
   "main": "index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/FlexShopper/loopback-connector-oriento.git"
