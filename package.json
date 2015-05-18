@@ -32,7 +32,6 @@
     }
   ],
   "main": "index.js",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/FlexShopper/loopback-connector-oriento.git"
